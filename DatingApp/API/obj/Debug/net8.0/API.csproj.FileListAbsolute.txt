@@ -120,3 +120,4 @@ C:\Users\Sagar Parmar\Desktop\DotnetAngular\MyApp\DotnetAngular\DatingApp\API\ob
 C:\Users\Sagar Parmar\Desktop\DotnetAngular\MyApp\DotnetAngular\DatingApp\API\obj\Debug\net8.0\API.pdb
 C:\Users\Sagar Parmar\Desktop\DotnetAngular\MyApp\DotnetAngular\DatingApp\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\Sagar Parmar\Desktop\DotnetAngular\MyApp\DotnetAngular\DatingApp\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\Sagar Parmar\Desktop\DotnetAngular\MyApp\DotnetAngular\DatingApp\API\obj\Debug\net8.0\API.sourcelink.json
